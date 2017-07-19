@@ -11,6 +11,7 @@
 
 ## 文档风格
 
+* [Markdown](markdown-style-guide.md)
 * [README.md](readme-markdown-style-guide.md)
 
 ## 其他
@@ -26,6 +27,5 @@ Released under the [MIT](./LICENSE) License.
 
 ## 参考资料
 
-* [google/styleguide](https://github.com/google/styleguide)
-* [mzlogin/style-guides](https://github.com/mzlogin/style-guides)
-* [karma-runner/git-commit-msg](http://karma-runner.github.io/1.0/dev/git-commit-msg.html)
+[1] [google/styleguide](https://github.com/google/styleguide)
+[2] [mzlogin/style-guides](https://github.com/mzlogin/style-guides)
