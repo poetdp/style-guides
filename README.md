@@ -4,20 +4,20 @@
 
 ## 代码风格
 
-* [C / C++](c-cpp-style-guide.md)
-* [C#](c-sharp-style-guide.md)
-* [Java](java-style-guide.md)
-* [Python](python-style-guide.md)
+* [C / C++](code-style/c-cpp-style-guide.md)
+* [C#](code-style/c-sharp-style-guide.md)
+* [Java](code-style/java-style-guide.md)
+* [Python](code-style/python-style-guide.md)
 
 ## 文档风格
 
-* [Markdown](markdown-style-guide.md)
-* [README.md](readme-markdown-style-guide.md)
+* [Markdown](docs-style/markdown-style-guide.md)
+* [README.md](docs-style/readme-markdown-style-guide.md)
 
 ## 其他
 
-* [Filename](filename.md)
-* [Github Manage](github-manage.md)
+* [Filename](other-style/filename.md)
+* [Github Manage](other-style/github-manage.md)
 
 ## License
 
