@@ -8,6 +8,7 @@
 * [C#](code-style/c-sharp-style-guide.md)
 * [Java](code-style/java-style-guide.md)
 * [Python](code-style/python-style-guide.md)
+* [Shell](code-style/shell-style-guide.md)
 
 ## 文档风格
 
