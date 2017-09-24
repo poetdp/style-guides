@@ -1,6 +1,6 @@
 People
 
-:bowtie:
+:bowtie: `:bowtie:`
 :smile:
 :simple_smile:
 :laughing:
@@ -194,6 +194,8 @@ People
 :rage4:
 :suspect:
 :trollface:
+
+
 Nature
 
 :sunny:
@@ -311,6 +313,8 @@ Nature
 :partly_sunny:
 :octocat:
 :squirrel:
+
+
 Objects
 
 :bamboo:
@@ -573,6 +577,8 @@ Objects
 :eggplant:
 :tomato:
 :corn:
+
+
 Places
 
 :house:
@@ -885,4 +891,3 @@ Symbols
 :small_red_triangle:
 :small_red_triangle_down:
 :shipit:
-C
